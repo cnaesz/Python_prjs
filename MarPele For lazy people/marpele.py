@@ -1,7 +1,6 @@
 import random
 import time
 from colorama import Fore,Style
-
 def mar():
   a_list = []
   b_list = []
